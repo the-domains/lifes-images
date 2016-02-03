@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.4443507
+color:
+  lightness: 0.3207293
+  brandStrength: 0.4783674
+  saturation: 0.8282178
+  rhythmicContrast: 0.4842758
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Lifes Images
