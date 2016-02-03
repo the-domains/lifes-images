@@ -1,14 +1,26 @@
 layout_spectrum: 1
-typography_spectrum: 0.4443507
+name: Lifes Images
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
+  brandStrength: 0.4881956
   lightness: 0.3207293
-  brandStrength: 0.4783674
   saturation: 0.8282178
   rhythmicContrast: 0.4842758
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-name: Lifes Images
+    - '#BDC6E0'
+    - '#A36542'
+    - '#41311F'
+    - '#FFFFFF'
+    - '#FFC69A'
+typography_spectrum: 0.4443507
