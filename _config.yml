@@ -14,6 +14,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: Photos from around the world
 cta:
   domain: null
   bucket: null
