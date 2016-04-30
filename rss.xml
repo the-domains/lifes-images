@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Lifes Images]]></title>
+        <description><![CDATA[Lifes Images]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 30 Apr 2016 12:03:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bryce Canyon]]></title>
+            <description><![CDATA[<article><h1>Bryce Canyon</h1><p></p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/683a09e1-5495-4883-a0f7-9fa9f1fa8663.jpg"></article>]]></description>
+            <link>undefinedbryce-canyon/index.html</link>
+            <guid isPermaLink="false">65df0e06-5f83-4ef3-aaee-f4146c7da979</guid>
+            <pubDate>Sat, 30 Apr 2016 12:03:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
