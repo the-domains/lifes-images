@@ -1,5 +1,7 @@
-layout_spectrum: 1
 name: Lifes Images
+favicon: null
+layout_spectrum: 0.25553
+typography_spectrum: 0.4443507
 collections:
   - index:
       navigable: true
@@ -12,15 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
+  brandColors:
+    - '#e7e9e8'
+    - '#070803'
+    - '#94c4f2'
+    - '#743a26'
+    - '#b67f61'
   brandStrength: 0.4881956
   lightness: 0.3207293
   saturation: 0.8282178
   rhythmicContrast: 0.4842758
-  brandColors:
-    - '#BDC6E0'
-    - '#A36542'
-    - '#41311F'
-    - '#FFFFFF'
-    - '#FFC69A'
-typography_spectrum: 0.4443507
+purpose: []
