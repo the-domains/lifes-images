@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Lifes Images]]></title>
-        <description><![CDATA[Lifes Images]]></description>
+        <title><![CDATA[Photos from around the world]]></title>
+        <description><![CDATA[Photos from around the world]]></description>
         <link>https://thegrid.ai/lifes-images/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 12:15:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2016 12:23:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lifes-images/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bryce Canyon]]></title>
+            <description><![CDATA[<article><h1>Bryce Canyon</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/615620dd5d091a81ff9c1bdad54659b6c064dcfb.jpg"></article>]]></description>
+            <link>https://thegrid.ai/lifes-images/bryce-canyon/index.html</link>
+            <guid isPermaLink="false">65df0e06-5f83-4ef3-aaee-f4146c7da979</guid>
+            <pubDate>Sat, 30 Apr 2016 12:23:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Grand Canyon]]></title>
             <description><![CDATA[<article><h1>The Grand Canyon</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e371d6d2adf911ff014f1dcd79a03c4d10fdfc48.jpg"></article>]]></description>
             <link>https://thegrid.ai/lifes-images/the-grand-canyon/index.html</link>
             <guid isPermaLink="false">e3eff3ca-2f7b-4804-b9d4-d54362839565</guid>
             <pubDate>Sat, 30 Apr 2016 12:15:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bryce Canyon]]></title>
-            <description><![CDATA[<article><h1>Bryce Canyon</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/615620dd5d091a81ff9c1bdad54659b6c064dcfb.jpg"></article>]]></description>
-            <link>https://thegrid.ai/lifes-images/bryce-canyon/index.html</link>
-            <guid isPermaLink="false">65df0e06-5f83-4ef3-aaee-f4146c7da979</guid>
-            <pubDate>Sat, 30 Apr 2016 12:03:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
